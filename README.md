@@ -1,2 +1,3 @@
 # firsthub
-understanding github
+understanding Github
+
